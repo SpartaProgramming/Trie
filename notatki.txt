@@ -1,0 +1,24 @@
+W Pythonie, jeśli chcesz wywołać metodę z wnętrza 
+innej metody tej samej klasy, musisz użyć self. 
+
+   def __init__(self): #dwa podkreślenia!!
+
+Trie
+- dodawanie wyrazów
+
+Node
+- sam pilnuje struktury = przechodzenie korzeń ->
+
+_funkcja - konwencja, że prywatna   
+
+Sphinx
+rm trie.rst modules.rst /doc/source
+sphinx-apidoc -o . ../../trie/
+make html
+docs/build/html/index.html -  uruchom z przeglądarki/live servera
+
+Git 
+w nowym standardzie jest main zamiast master -M main - force change
+
+Moduł
+__init__.py = aby folder traktował jak moduł
